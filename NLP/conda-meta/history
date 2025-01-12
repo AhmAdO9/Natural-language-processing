@@ -1,0 +1,3 @@
+==> 2025-01-11 19:05:53 <==
+# cmd: /opt/anaconda3/bin/conda create -p NLP -y
+# conda version: 24.9.2
